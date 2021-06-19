@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kaggle - OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction
+title: Kaggle - COVID-19 mRNA Vaccine Degradation Prediction
 description: Implemented an attention, Graph Neural Network based model with autoencoder pretraining in keras. Additional 
             features were extracted from arnie package. Train and test-time augmentations used. Achieved a rank in top 6% and 
             a bronze medal.
