@@ -2,12 +2,13 @@
 layout: about
 title: About
 permalink: /
-description: Research Fellow <a href="#">Centre for Visual Information Technology</a>. .
+description: 
 
 profile:
   align: right
   image: prof_pic_2.jpeg
-  contact: arpitbahety39@gmail.com
+  affiliation: Research Fellow at <a href="#">Centre for Visual Information Technology, IIIT Hyderabad</a>
+  contact: arpitbahety39@gmail.com | ab5232@columbia.edu
   
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
