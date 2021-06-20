@@ -1,28 +1,15 @@
 ---
 layout: page
-title: Kaggle - COVID-19 mRNA Vaccine Degradation Prediction
-description: Implemented an attention, Graph Neural Network based model with autoencoder pretraining in keras. Additional 
-            features were extracted from arnie package. Train and test-time augmentations used. Achieved a rank in top 6% and 
-            a bronze medal.
-img: /assets/img/12.jpg
+title: COVID-19 mRNA Vaccine Degradation Prediction
+description: RNA molecules have the tendency to spontaneously degrademodel which can render the mRNA vaccine useles. In this Kaggle challenge, I have developed models that will predict likely degradation rates at each base of an RNA molecule.
+img: /assets/img/openVaccine.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Kaggle - OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction
-    description: Implemented an attention, Graph Neural Network based model with autoencoder pretraining in keras. Additional 
-            features were extracted from arnie package. Train and test-time augmentations used. Achieved a rank in top 6% and 
-            a bronze medal.
-    img: /assets/img/12.jpg
-    ---
+Implemented an attention, Graph Neural Network based model with autoencoder pretraining in keras. Additional 
+features were extracted from arnie package. Train and test-time augmentations used. Achieved a rank in top 6% and 
+a bronze medal.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
