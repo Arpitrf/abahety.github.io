@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2019-01-13 16:11:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will be joining Freie Univeristät Berlin as a Research Intern in the domain of AI and Cognition
+
