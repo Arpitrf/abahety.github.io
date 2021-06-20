@@ -8,7 +8,8 @@ profile:
   align: right
   image: prof_pic_2.jpeg
   affiliation: Research Fellow at <a href="#">Centre for Visual Information Technology, IIIT Hyderabad</a>
-  contact: arpitbahety39@gmail.com | ab5232@columbia.edu
+  email1: arpitbahety39@gmail.com 
+  email2: ab5232@columbia.edu
   
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
