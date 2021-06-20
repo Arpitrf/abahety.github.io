@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Extra
 permalink: /extra/
 description: Some things that I enjoy doing
 nav: true
