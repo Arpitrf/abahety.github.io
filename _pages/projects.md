@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
@@ -17,7 +17,7 @@ horizontal: false
       <!-- Generate cards for each project -->
       {% if page.horizontal %}
         <div class="container">
-          <div class="row row-cols-4">
+          <div class="row row-cols-2">
           {% for project in sorted_projects %}
             {% include projects_horizontal.html %}
           {% endfor %}
