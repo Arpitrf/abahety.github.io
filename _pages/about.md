@@ -6,7 +6,7 @@ description: Research Fellow <a href="#">Centre for Visual Information Technolog
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2.jpeg
   contact: arpitbahety39@gmail.com
   
 news: true  # includes a list of news items
