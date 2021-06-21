@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Street Tree Quantification Using Deep Learning
+duration: (Feb 2021 - July 2021)
 description: In this work, we develop a street tree detection and counting mechanism. We further showcase the results using two separate methods and their corresponding visualizations
 img: /assets/img/tree_counting.gif
 importance: 1
