@@ -17,14 +17,10 @@ layout: default
       {% if page.profile.image %}
         <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
       {% endif %}
-    </br>
-      {% if page.profile.position %}
-      <div class="position">
-        {{ page.profile.position }}
-      </div>
-      {% endif %}
+      <br>
       {% if page.profile.affiliation %}
         <div class="affiliation">
+          {{ page.profile.position }}
           {{ page.profile.affiliation }}
         </div>
       {% endif %}
