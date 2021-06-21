@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Plant Pathology - Identify the category of foliar diseases in apple trees
+duration: (March - May 2020)
 description: The aim of this project as part of a Kaggle challenge is to develop computer vision based models to accurately classify a given leaf sample into different diseased category or a healthy leaf.
 img: /assets/img/plant_pathology.png
 importance: 2

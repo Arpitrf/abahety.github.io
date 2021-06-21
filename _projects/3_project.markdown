@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hand-Gesture Based Human Robot Interaction Using 3D CNN
+duration: (July - December 2018)
 description: This project aimed to develop a system for hand gesture recognition and implement that on a Nao Robot. Such a system could potentially help people with speech imparity interact with robots.
 img: /assets/img/hand_gesture.gif
 importance: 3
