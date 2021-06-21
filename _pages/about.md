@@ -7,7 +7,8 @@ description:
 profile:
   align: right
   image: prof_pic_2.jpeg
-  affiliation: Research Fellow at <a href="http://cvit.iiit.ac.in/">Centre for Visual Information Technology, IIIT Hyderabad</a>
+  position: Research Fellow 
+  affiliation: <a href="http://cvit.iiit.ac.in/">Centre for Visual Information Technology, IIIT Hyderabad</a>
   email1: arpitbahety39@gmail.com 
   email2: ab5232@columbia.edu
   
