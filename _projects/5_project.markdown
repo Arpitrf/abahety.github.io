@@ -17,9 +17,9 @@ The following newspaper articles and blogs have published our work -
 2. [Telangana Today](https://telanganatoday.com/iiit-hyderabad-researchers-build-tool-to-count-roadside-trees)
 3. [IIIT-H Blog](https://blogs.iiit.ac.in/tree-counting/)
 
-{% include image.html url="/assets/img/moneyshot2.png" description="The aim of this work is to develop a Setup and a System to detect, quantify and visualize street trees. Such a system with city-wide visualizations would help in urban planning" %}
+{% include image.html url="/assets/img/moneyshot2.png" description="Figure 1. The aim of this work is to develop a Setup and a System to detect, quantify and visualize street trees. Such a system with city-wide visualizations would help in urban planning" %}
 
-{% include image.html url="assets/img/pipeline2.png" description="The aim of this work is to develop a Setup and a System to detect, quantify and visualize street trees. Such a system with city-wide visualizations would help in urban planning" %}
+{% include image.html url="/assets/img/pipeline2.png" description="Figure 2. Pipeline" %}
 
 Sample Results:
 <iframe src="https://www.youtube.com/embed/CvIZLw1CcDM" title="surat"></iframe>
