@@ -36,7 +36,13 @@
           {% if project.report %}
             <div class="icon" data-toggle="tooltip">
             <a href="{{ project.report }}" target="_blank">[Report]</a>
+            <span style="display:inline-block; width: 5px;"></span>
             </div>
+          {% endif %}
+          {% if project.video %}
+          <div class="icon" data-toggle="tooltip">
+            <a href="{{ project.video }}" target="_blank">[Demo Video]</a>
+          </div>
           {% endif %}
         </div>
       </div>
