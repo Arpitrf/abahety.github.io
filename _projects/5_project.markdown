@@ -21,6 +21,11 @@ The following newspaper articles and blogs have published our work -
 
 {% include image.html url="/assets/img/pipeline2.png" description="Figure 2. Pipeline" %}
 
-Sample Results:
+Sample Results of Detection and COunting module:
 <iframe src="https://www.youtube.com/embed/CvIZLw1CcDM" title="surat"></iframe>
 <iframe src="https://www.youtube.com/embed/8bm1WXBILBI" title="hyderabad"></iframe>
+
+Results of Visualizations:
+
+{% include image.html url="/assets/img/category_map.png" description="Figure 3. Category Map" %}
+{% include image.html url="/assets/img/density_map.png" description="Figure 2. Density Map" %}
