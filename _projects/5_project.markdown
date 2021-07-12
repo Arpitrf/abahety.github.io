@@ -19,6 +19,7 @@ The following newspaper articles and blogs have published our work -
 
 {% include image.html url="/assets/img/moneyshot2.png" description="The aim of this work is to develop a Setup and a System to detect, quantify and visualize street trees. Such a system with city-wide visualizations would help in urban planning" %}
 
+{% include image.html url="assets/img/pipeline2.png" description="The aim of this work is to develop a Setup and a System to detect, quantify and visualize street trees. Such a system with city-wide visualizations would help in urban planning" %}
 
 Sample Results:
 <iframe src="https://www.youtube.com/embed/CvIZLw1CcDM" title="surat"></iframe>
