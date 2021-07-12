@@ -5,6 +5,7 @@ duration: (August - October 2020)
 description: RNA molecules have the tendency to spontaneously degrademodel which can render the mRNA vaccine useles. In this Kaggle challenge, I have developed models that will predict likely degradation rates at each base of an RNA molecule.
 img: /assets/img/openVaccine.png
 importance: 2
+kaggle: https://www.kaggle.com/arpitrf
 category: work
 ---
 
