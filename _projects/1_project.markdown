@@ -6,7 +6,6 @@ description: RNA molecules have the tendency to spontaneously degrademodel which
 img: /assets/img/openVaccine.png
 importance: 2
 category: work
-github: true
 ---
 
 Implemented an attention, Graph Neural Network based model with autoencoder pretraining in keras. Additional 

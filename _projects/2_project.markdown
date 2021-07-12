@@ -6,7 +6,6 @@ description: The aim of this project as part of a Kaggle challenge is to develop
 img: /assets/img/plant_pathology.png
 importance: 2
 category: work
-github: true
 ---
 
 Misdiagnosis of the many diseases impacting agricultural crops can lead to misuse of chemicals leading to the emergence of resistant pathogen strains, increased input costs, and more outbreaks with significant economic loss and environmental impacts. Current disease diagnosis based on human scouting is time-consuming and expensive which calls for a need of computer vision based model to accurately classify a given leaf sample into different diseased category or a healthy leaf.
