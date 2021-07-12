@@ -31,8 +31,10 @@
             <a href="{{ project.kaggle }}" target="_blank"><i class="fab fa-kaggle gh-icon"></i></a>
           </div>
           {% endif %}
-          {% if project.kaggle %}
+          {% if project.report %}
+            <div class="icon" data-toggle="tooltip">
             <a href="{{ project.report }}" target="_blank">[Report]</a>
+            </div>
           {% endif %}
         </div>
       </div>
