@@ -31,6 +31,9 @@
             <a href="{{ project.kaggle }}" target="_blank"><i class="fab fa-kaggle gh-icon"></i></a>
           </div>
           {% endif %}
+          {% if project.kaggle %}
+            <a href="{{ project.report }}" target="_blank">[Report]</a>
+          {% endif %}
         </div>
       </div>
     </div>
