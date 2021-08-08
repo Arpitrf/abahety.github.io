@@ -17,6 +17,7 @@ The following newspaper articles and blogs have published our work -
 1. [The Indian Express](https://indianexpress.com/article/cities/hyderabad/iit-hyderabad-research-on-counting-trees-generating-density-map-7392740/)
 2. [Telangana Today](https://telanganatoday.com/iiit-hyderabad-researchers-build-tool-to-count-roadside-trees)
 3. [IIIT-H Blog](https://blogs.iiit.ac.in/tree-counting/)
+4. [Edexlive](https://www.edexlive.com/happening/2021/aug/04/ml-algorithm-iiit-hyderabad-researchers-trees-counting-green-23017.html)
 
 {% include image.html url="/assets/img/moneyshot2.png" description="Figure 1. The aim of this work is to develop a Setup and a System to detect, quantify and visualize street trees. Such a system with city-wide visualizations would help in urban planning" %}
 
