@@ -91,9 +91,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  extra:
+  off-research:
     ouput: true
-    permalink: /extra/:path/
+    permalink: /off-research/:path/
 
 news_limit: 5
 
