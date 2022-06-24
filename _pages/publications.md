@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
-description: 
-years: [2019]
+title: publications
+# description: publications by categories in reversed chronological order.
+years: [2019, 2021]
 nav: true
 ---
 
@@ -11,7 +11,6 @@ nav: true
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  <img src="/assets/img/git_rate.gif" alt="project thumbnail">
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
