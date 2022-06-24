@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of all my projects.
+description: 
 nav: true
 display_categories: [work]
 horizontal: false
